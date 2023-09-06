@@ -1,0 +1,20 @@
+[{
+    "time": "Corinthians",
+    "estádio": {
+        "nome": "Neo quimica Arena",
+        "publico_recorde": 63267,
+        "capacidade": null
+    },
+    "jogadores": [{
+        "nome": "Cássio",
+        "idade": "36",
+        "titular": true,
+        "times": ["Grêmio", "PSV", "Corinthians"]
+    },
+    {
+        "nome": "Luan",
+        "idade": "29",
+        "titular": false,
+        "times": ["Grêmio", "Corinthians"]
+    }]
+}]
